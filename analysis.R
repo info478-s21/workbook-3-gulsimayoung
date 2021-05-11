@@ -75,7 +75,7 @@ ggsave("charts/change_plot.png")
 # What does this mean?
 # This graph is really interesting because it presents an extremely strong
 # correlation between life expectancy and health adjusted life expectancy.
-# while life expectancy measures how many years an individual or group will
+# While life expectancy measures how many years an individual or group will
 # likely live, the HALE measurement factors in the quality of life that the
 # individual or group will have. A HALE value will tell us how many years
 # can be expected to be lived in good/full health, rather than just how many
